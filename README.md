@@ -5,7 +5,7 @@ Add to your ```tsconfig.json``` these lines:
 ```json
 "plugins": [
 	{
-	    "transform": "femuwu-transformer"
+	    "transform": "neuwork-transformer"
 	}
 ]
 ```
