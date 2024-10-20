@@ -1,4 +1,4 @@
-# AST transformer for @rbxts/femuwu
+# AST transformer for neuwork
 
 Add to your ```tsconfig.json``` these lines:
 
