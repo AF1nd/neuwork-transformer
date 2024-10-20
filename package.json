@@ -1,7 +1,7 @@
 {
   "name": "neuwork-transformer",
   "version": "1.0.0",
-  "description": "femuwu AST transformer",
+  "description": "neuwork AST transformer",
   "main": "out/index.js",
   "scripts": {
     "build": "tsc"
