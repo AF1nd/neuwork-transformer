@@ -15,5 +15,7 @@
   "devDependencies": {
     "typescript": "^5.6.3"
   },
-  "files": ["out"]
+  "files": [
+    "out"
+  ]
 }
